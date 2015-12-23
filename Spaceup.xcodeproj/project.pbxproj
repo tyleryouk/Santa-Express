@@ -1050,7 +1050,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.TylerYouk.SantaExpress;
 				PRODUCT_NAME = "Santa Express";
-				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE = "bf4b5213-7b1d-40d8-8f16-cc6a2bd4b98d";
 				"Texture Atlas Maximum Size" = 4096x4096;
 			};
 			name = Debug;
@@ -1072,7 +1072,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.TylerYouk.SantaExpress;
 				PRODUCT_NAME = "Santa Express";
-				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE = "03aa370b-95bf-45d0-be49-dc92e22f5d6b";
 				"Texture Atlas Maximum Size" = 4096x4096;
 			};
 			name = Release;
