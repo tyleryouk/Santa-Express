@@ -1048,9 +1048,9 @@
 				INFOPLIST_FILE = SpaceUp/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.TylerYouk.SantaExpress;
+				PRODUCT_BUNDLE_IDENTIFIER = com.TylerYouk.TestApp;
 				PRODUCT_NAME = "Santa Express";
-				PROVISIONING_PROFILE = "bf4b5213-7b1d-40d8-8f16-cc6a2bd4b98d";
+				PROVISIONING_PROFILE = "";
 				"Texture Atlas Maximum Size" = 4096x4096;
 			};
 			name = Debug;
@@ -1070,9 +1070,9 @@
 				INFOPLIST_FILE = SpaceUp/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.TylerYouk.SantaExpress;
+				PRODUCT_BUNDLE_IDENTIFIER = com.TylerYouk.TestApp;
 				PRODUCT_NAME = "Santa Express";
-				PROVISIONING_PROFILE = "03aa370b-95bf-45d0-be49-dc92e22f5d6b";
+				PROVISIONING_PROFILE = "";
 				"Texture Atlas Maximum Size" = 4096x4096;
 			};
 			name = Release;
